@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Yan Shi
 title: Data Engineer & Analyst 
 email: itsyanshi@gmail.com
-website: https://oneyanshi.github.io/
+# website: https://oneyanshi.github.io/
 
 # Social links
 # twitter_username: facespics
@@ -21,10 +21,10 @@ linkedin_username: oneyanshi
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: Howdy! 👋
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Howdy! 👋  My name is Yan Shi. I'm searching for new opportunities that allow me to leaverage my data engineering and analytics skills. I'm interested in progressive spaces, and in places where communication and technology intersect. 
+  My name is Yan Shi. I'm searching for new opportunities that allow me to leaverage my data engineering and analytics skills. I'm interested in progressive spaces, and in places where communication and technology intersect. 
 
   I code primarily in <mark>Python</mark>, but I'm also experienced in <mark>HTML</mark>, <mark>CSS</mark>, and vanilla <mark>JavaScript</mark>. 
 
