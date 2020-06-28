@@ -46,7 +46,7 @@ I code primarily in <mark>Python</mark>, but I'm also experienced in <mark>HTML<
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
