@@ -1,12 +1,21 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Programming 
+- skill: Python 
+  description: I'm comfortable with using Python to create solutions to problems. I've used Python in the context of ETL processes, web scraping, and the one-off personal project. 
+  I've experience in using packages e.g. pandas, beautifulsoup, csv, luigi, leaflet, Django, and more.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Programming
+- skill: Vanilla HTML/CSS/JavaScript
+  description: Emphasis on <em>vanilla</em>.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Adobe Suite
+  description: Premiere, Photoshop, Audition, and Illustrator are all applications I've used.
+
+# Digital content development and creation
+- skill: Digital content development & creation 
+  description: Copy writing, AP style, wireframing, UI/UX, CRMs and CMSs, digital analytics
+
+# Ticketing
+- skill: Organizational Skills 
+  description: I've experience in using JIRA, Trello, and Slack in communicating and organizing work within a team and among departments.
