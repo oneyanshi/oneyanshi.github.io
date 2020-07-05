@@ -2,15 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Journalism Videos & Reel 
+  role: Writer, editor, and videographer 
+  duration: 2017 &mdash; 2018
+  url: "https://oneyanshi.weebly.com/video.html"
+  description: During my studies, I had several assignments that focused on tv/video production. Included in the link is a video reel of my tv production course as well as my video projects where I 
+  focused my videos to center around stories from communities within DC.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Writing Clips 
+  role: Writer/Editor
+  # duration: 2014 &mdash; Present
+  url: "https://oneyanshi.weebly.com/writing.html"
+  description: Included in the link are writing clips from my time in my role as an office assistant at the School of Communication, NBC4-Washington, and student-led organizations.
