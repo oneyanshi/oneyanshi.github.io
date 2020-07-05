@@ -46,7 +46,7 @@ sidebar:
     #     link:
 
 career-profile:
-    title: Howdy! 
+    title: Howdy! 👋
     summary: |
       My name is Yan Shi, and I'm currently searching for opportunities in data engineering 
       at progressive organizations. I firmly believe in using my skillset for an organization or company 
@@ -197,23 +197,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python and packages, e.g. Django, Pandas, etc.
+        # level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: AWS S3
+        # level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Redshift
+        # level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Vanilla HTML/CSS/JavaScript
+        # level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Adobe Software (Photoshop, Audition, Premiere)
+        # level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: git
+        # level: 60%
+
+      - name: JIRA
+        # level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
