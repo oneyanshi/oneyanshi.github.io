@@ -1,44 +1,48 @@
 # Jobs
 # AFSCME
 - company: American Federation of State, County, and Municipal Employees (AFSCME)
-  position: Senior Strategist II, Data Engineer ️️
-            Digital Media Data Specialist ⬆️
-            Digital Intern ⬆️
-  duration: June 2018 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  position: Digital Intern ➡️ Digital Media Data Specialist ➡️ Senior Strategist II, Data Engineer ️️
+  duration: June 2018 &mdash; July 2020
+  summary: At AFSCME, I've worn several different types of hats. I've worked on ETL projects, using data sources from APIs to mirrors. I've experience in 
+          Action Network, EveryAction/VAN, Mobile Commons, Hustle, and more.          
+        	<ul class="resume-item-list"><li>Built, documented, and maintained data pipelines/ETL processes 
+          using Python, Luigi, AWS S3, Redshift, SQL and other tools and packages.</li>
+          <li>Created and collaborated with other departments to create dashboards in Periscope, regarding membership,
+          warehouse health, organizing efforts, and digital metrics.</li>
+          <li>Led a cross-departmental data skills training conference with over 100 attendees, made up of affiliates and HQ staff.</li></ul>
 
 # AU SOC 
 - company: American University School of Communication 
   position: Online Assistant 
   duration:  Jan. 2017 &mdash; May 2018
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: I migrated over 40+ pages to new templates and components and wrote site copy when needed. I've also copy-edited, wrote, and researched stories on alumni, SOC events, and current students.
 
 # NatGeo Society 
 - company: National Geographic Society
   position: Digital Content Production Intern
   duration:   June 2017  &mdash; August 2017
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: I diagnosed and developed solutions for various requests assigned to me via JIRA for the digital team. I consulted with stakeholders and built another iteration of The Globe under two weeks, using Python, Django, and location APIs. 
 
 # NBC4
 - company: NBC4-Washington
   position: Digital Team Intern 
   duration:   Aug. 2016  &mdash; Dec. 2016 
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: Wrote articles and updated local and national voting numbers for the 2016 election. I have several bylines for local news, wire news, and entertainment articles. I was also responsible for cutting and uploading videos from the news broadcasts.
 
 # USATODAY
 - company: USA TODAY
   position: Interactive News Intern 
   duration:   June 2016  &mdash; August 2016
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: I managed, edited, and organized content for a large, nationwide project, Trump Nation and Clinton Nation. I also developed and stood up coding projects using Python, JavaScript, HTML/CSS, and Django.
 
 # AU College of Law 
 - company: American University College of Law 
   position: Office Assistant 
   duration:   Jan 2016  &mdash; May 2016 
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: I was an office assistant for 10+ professors and was responsible for daily data entry, data tracking, document processing, course material preparation, and handling of nonsensitive and sensitive information.
 
 # Newseum 
 - company: Newseum 
   position: Video Production/Broadcast Technology Intern 
   duration:   Aug. 2015  &mdash; Dec. 2015
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: I edited B-roll and media using Adobe Premiere and AVID. I was tasked with biweekly updates for the "A Lighter Look at the News" exhibit. I also digitized and encoded tapes and media using StreamZHD techonlogy, and troubleshot software and computer hardware issues on desktop and web. One of my favorite projects was assisting and creating content for the FBI exhibit, which opened in November 2015.
