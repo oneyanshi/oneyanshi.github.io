@@ -3,7 +3,10 @@
 - company: American Federation of State, County, and Municipal Employees (AFSCME)
   position: Digital Intern ➡️ Digital Media Data Specialist ➡️ Senior Strategist II, Data Engineer ️️
   duration: June 2018 &mdash; July 2020
-  summary: At AFSCME, I've worn several different types of hats. I've worked on ETL projects, using data sources from APIs to mirrors. I've experience in 
+  summary: I started as a digital intern on the digital communications team in June 2018 assisting with social listening and media management during the <em>AFSCME vs JANUS</em> Supreme Court case. 
+          I transitioned into the Digital Media Data Specialist role in August 2018 at the end of my internship. I was promoted to Senior Strategist II in December 2019. 
+          
+          At AFSCME, I've worn several different types of hats. I've worked on ETL projects, using data sources from APIs to mirrors. I've experience in 
           Action Network, EveryAction/VAN, Mobile Commons, Hustle, and more.          
         	<ul class="resume-item-list"><li>Built, documented, and maintained data pipelines/ETL processes 
           using Python, Luigi, AWS S3, Redshift, SQL and other tools and packages.</li>

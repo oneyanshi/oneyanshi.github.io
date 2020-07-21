@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Yan Shi"
-resume_title:                   "Data Engineer & Cooking Enthusiast"
+resume_title:                   "Data-driven progressive technologist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "itsyanshi@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Howdy! 👋 My name is Yan Shi, and I'm currently searching for opportunities in data engineering 
+resume_header_intro: "<p>Howdy! 👋 My name is Yan Shi, and I'm currently searching for opportunities in data roles or software engineering roles 
       at progressive organizations. I firmly believe in using my skillset for an organization or company 
       that aligns with my values. I'm interested in work at the intersections of data, communications, 
       social justice, labor, and education. </p>"
